@@ -1,0 +1,2835 @@
+
+--- Entry 0 ---
+Prompt:
+[DNA_START]ATAAAATTGTTGACGGACTT[DNA_END]
+Target gene: Rattus mRNA for vascular type-1 angiotensin II receptor
+Inhibition efficacy score (as a number between 0 and 1):
+Output:
+0.95
+Parsed: 0.95
+
+--- Entry 1 ---
+Prompt:
+[DNA_START]AAATTGTTGACGGACTTGGG[DNA_END]
+Target gene: Rattus mRNA for vascular type-1 angiotensin II receptor
+Inhibition efficacy score (as a number between 0 and 1):
+Output:
+0.95
+Parsed: 0.95
+
+--- Entry 2 ---
+Prompt:
+[DNA_START]TTGTTGACGGACTTGGGAGA[DNA_END]
+Target gene: Rattus mRNA for vascular type-1 angiotensin II receptor
+Inhibition efficacy score (as a number between 0 and 1):
+Output:
+0.516 (25.06% inhibition)
+Parsed: 0.51625
+
+--- Entry 3 ---
+Prompt:
+[DNA_START]CTGTGACGGTACGGGTAGTG[DNA_END]
+Target gene: Rattus mRNA for vascular type-1 angiotensin II receptor
+Inhibition efficacy score (as a number between 0 and 1):
+Output:
+0.73
+Parsed: 0.73
+
+--- Entry 4 ---
+Prompt:
+[DNA_START]GTGACGGTACGGGTAGTGGT[DNA_END]
+Target gene: Rattus mRNA for vascular type-1 angiotensin II receptor
+Inhibition efficacy score (as a number between 0 and 1):
+Output:
+0.539
+Parsed: 0.539
+
+--- Entry 5 ---
+Prompt:
+[DNA_START]GAATAGTAAGAGTGGTCGAT[DNA_END]
+Target gene: Rattus mRNA for vascular type-1 angiotensin II receptor
+Inhibition efficacy score (as a number between 0 and 1):
+Output:
+0.75
+Parsed: 0.75
+
+--- Entry 6 ---
+Prompt:
+[DNA_START]TAGTAAGAGTGGTCGATATG[DNA_END]
+Target gene: Rattus mRNA for vascular type-1 angiotensin II receptor
+Inhibition efficacy score (as a number between 0 and 1):
+Output:
+0.69
+Parsed: 0.69
+
+--- Entry 7 ---
+Prompt:
+[DNA_START]TAAGAGTGGTCGATATGGGA[DNA_END]
+Target gene: Rattus mRNA for vascular type-1 angiotensin II receptor
+Inhibition efficacy score (as a number between 0 and 1):
+Output:
+0.7
+Parsed: 0.7
+
+--- Entry 8 ---
+Prompt:
+[DNA_START]AGAGTGGTCGATATGGGAAT[DNA_END]
+Target gene: Rattus mRNA for vascular type-1 angiotensin II receptor
+Inhibition efficacy score (as a number between 0 and 1):
+Output:
+0.97
+Parsed: 0.97
+
+--- Entry 9 ---
+Prompt:
+[DNA_START]CTCAGAGCCTTAAGCTGCGA[DNA_END]
+Target gene: Rattus mRNA for vascular type-1 angiotensin II receptor
+Inhibition efficacy score (as a number between 0 and 1):
+Output:
+0.52
+Parsed: 0.52
+
+--- Entry 10 ---
+Prompt:
+[DNA_START]AGAGCCTTAAGCTGCGAGGG[DNA_END]
+Target gene: Rattus mRNA for vascular type-1 angiotensin II receptor
+Inhibition efficacy score (as a number between 0 and 1):
+Output:
+0.74
+Parsed: 0.74
+
+--- Entry 11 ---
+Prompt:
+[DNA_START]GTGCACAGAGTCGTAGCTGG[DNA_END]
+Target gene: Rattus mRNA for vascular type-1 angiotensin II receptor
+Inhibition efficacy score (as a number between 0 and 1):
+Output:
+0.42688198629
+Parsed: 0.42688198629
+
+--- Entry 12 ---
+Prompt:
+[DNA_START]GCACAGAGTCGTAGCTGGCG[DNA_END]
+Target gene: Rattus mRNA for vascular type-1 angiotensin II receptor
+Inhibition efficacy score (as a number between 0 and 1):
+Output:
+0.93
+Parsed: 0.93
+
+--- Entry 13 ---
+Prompt:
+[DNA_START]ACAGAGTCGTAGCTGGCGAT[DNA_END]
+Target gene: Rattus mRNA for vascular type-1 angiotensin II receptor
+Inhibition efficacy score (as a number between 0 and 1):
+Output:
+0.919 (95% CI: 0.904, 0.934)
+Parsed: 0.91995
+
+--- Entry 14 ---
+Prompt:
+[DNA_START]AGAGTCGTAGCTGGCGATGG[DNA_END]
+Target gene: Rattus mRNA for vascular type-1 angiotensin II receptor
+Inhibition efficacy score (as a number between 0 and 1):
+Output:
+0.8
+Parsed: 0.8
+
+--- Entry 15 ---
+Prompt:
+[DNA_START]CACACAAGGAAGAGTGCACA[DNA_END]
+Target gene: Rattus mRNA for vascular type-1 angiotensin II receptor
+Inhibition efficacy score (as a number between 0 and 1):
+Output:
+0.68
+Parsed: 0.68
+
+--- Entry 16 ---
+Prompt:
+[DNA_START]CACAAGGAAGAGTGCACAGA[DNA_END]
+Target gene: Rattus mRNA for vascular type-1 angiotensin II receptor
+Inhibition efficacy score (as a number between 0 and 1):
+Output:
+0.90
+Parsed: 0.9
+
+--- Entry 17 ---
+Prompt:
+[DNA_START]ACTCGAAGTTGGAGATGCGG[DNA_END]
+Target gene: Rattus mRNA for vascular type-1 angiotensin II receptor
+Inhibition efficacy score (as a number between 0 and 1):
+Output:
+0.677
+Parsed: 0.677
+
+--- Entry 18 ---
+Prompt:
+[DNA_START]TCGAAGTTGGAGATGCGGTC[DNA_END]
+Target gene: Rattus mRNA for vascular type-1 angiotensin II receptor
+Inhibition efficacy score (as a number between 0 and 1):
+Output:
+0.5
+Parsed: 0.5
+
+--- Entry 19 ---
+Prompt:
+[DNA_START]TTTACCGGGAATTGAGAAGA[DNA_END]
+Target gene: Rattus mRNA for vascular type-1 angiotensin II receptor
+Inhibition efficacy score (as a number between 0 and 1):
+Output:
+0.0000000000000000
+Parsed: 0.0
+
+--- Entry 20 ---
+Prompt:
+[DNA_START]TACCGGGAATTGAGAAGACG[DNA_END]
+Target gene: Rattus mRNA for vascular type-1 angiotensin II receptor
+Inhibition efficacy score (as a number between 0 and 1):
+Output:
+0.7
+Parsed: 0.7
+
+--- Entry 21 ---
+Prompt:
+[DNA_START]CCGGGAATTGAGAAGACGAC[DNA_END]
+Target gene: Rattus mRNA for vascular type-1 angiotensin II receptor
+Inhibition efficacy score (as a number between 0 and 1):
+Output:
+0.52
+Parsed: 0.52
+
+--- Entry 22 ---
+Prompt:
+[DNA_START]TTGACGGACTTGGGAGACAA[DNA_END]
+Target gene: Rattus mRNA for vascular type-1 angiotensin II receptor
+Inhibition efficacy score (as a number between 0 and 1):
+Output:
+0.99
+Parsed: 0.99
+
+--- Entry 23 ---
+Prompt:
+[DNA_START]GACGGTACGGGTAGTGGTAG[DNA_END]
+Target gene: Rattus mRNA for vascular type-1 angiotensin II receptor
+Inhibition efficacy score (as a number between 0 and 1):
+Output:
+0.74
+Parsed: 0.74
+
+--- Entry 24 ---
+Prompt:
+[DNA_START]ATACTCAGAGCCTTAAGCTG[DNA_END]
+Target gene: Rattus mRNA for vascular type-1 angiotensin II receptor
+Inhibition efficacy score (as a number between 0 and 1):
+Output:
+0.95
+Parsed: 0.95
+
+--- Entry 25 ---
+Prompt:
+[DNA_START]GACTTCTACCATAGTTTTCT[DNA_END]
+Target gene: Rattus mRNA for vascular type-1 angiotensin II receptor
+Inhibition efficacy score (as a number between 0 and 1):
+Output:
+0.96
+Parsed: 0.96
+
+--- Entry 26 ---
+Prompt:
+[DNA_START]CGTGTCAATGTATAAACAGT[DNA_END]
+Target gene: Rattus mRNA for vascular type-1 angiotensin II receptor
+Inhibition efficacy score (as a number between 0 and 1):
+Output:
+0.03
+Parsed: 0.03
+
+--- Entry 27 ---
+Prompt:
+[DNA_START]CGAACCACCACTAACAGTAA[DNA_END]
+Target gene: Rattus mRNA for vascular type-1 angiotensin II receptor
+Inhibition efficacy score (as a number between 0 and 1):
+Output:
+0.4
+Parsed: 0.4
+
+--- Entry 28 ---
+Prompt:
+[DNA_START]TAGTGGATACATTCTAGCGA[DNA_END]
+Target gene: Rattus mRNA for vascular type-1 angiotensin II receptor
+Inhibition efficacy score (as a number between 0 and 1):
+Output:
+0.8
+Parsed: 0.8
+
+--- Entry 29 ---
+Prompt:
+[DNA_START]CCGGTTTCAGTGGACGTAGT[DNA_END]
+Target gene: Rattus mRNA for vascular type-1 angiotensin II receptor
+Inhibition efficacy score (as a number between 0 and 1):
+Output:
+0.56
+Parsed: 0.56
+
+--- Entry 30 ---
+Prompt:
+[DNA_START]GACGTAGTAGTAGACCGACT[DNA_END]
+Target gene: Rattus mRNA for vascular type-1 angiotensin II receptor
+Inhibition efficacy score (as a number between 0 and 1):
+Output:
+0.63
+Parsed: 0.63
+
+--- Entry 31 ---
+Prompt:
+[DNA_START]ATAAGACCCGAAGAACAAGG[DNA_END]
+Target gene: Rattus mRNA for vascular type-1 angiotensin II receptor
+Inhibition efficacy score (as a number between 0 and 1):
+Output:
+0.735
+Parsed: 0.735
+
+--- Entry 32 ---
+Prompt:
+[DNA_START]TCGAGATTTCTTCCGAATAC[DNA_END]
+Target gene: Rattus mRNA for vascular type-1 angiotensin II receptor
+Inhibition efficacy score (as a number between 0 and 1):
+Output:
+0.67
+Parsed: 0.67
+
+--- Entry 33 ---
+Prompt:
+[DNA_START]GGCTTACACTGGCGGAGGGC[DNA_END]
+Target gene: Homo sapiens v-raf-1 murine leukemia viral oncogene homolog 1 (RAF1), mRNA
+Inhibition efficacy score (as a number between 0 and 1):
+Output:
+0.38
+Parsed: 0.38
+
+--- Entry 34 ---
+Prompt:
+[DNA_START]GGCGGAGGGCGAGGGAGTGG[DNA_END]
+Target gene: Homo sapiens v-raf-1 murine leukemia viral oncogene homolog 1 (RAF1), mRNA
+Inhibition efficacy score (as a number between 0 and 1):
+Output:
+0.327
+Parsed: 0.327
+
+--- Entry 35 ---
+Prompt:
+[DNA_START]TGGGCGGCGCCCCTCCTCCT[DNA_END]
+Target gene: Homo sapiens v-raf-1 murine leukemia viral oncogene homolog 1 (RAF1), mRNA
+Inhibition efficacy score (as a number between 0 and 1):
+Output:
+0.998
+Parsed: 0.998
+
+--- Entry 36 ---
+Prompt:
+[DNA_START]GCGGCGCCCCTCCTCCTCGC[DNA_END]
+Target gene: Homo sapiens v-raf-1 murine leukemia viral oncogene homolog 1 (RAF1), mRNA
+Inhibition efficacy score (as a number between 0 and 1):
+Output:
+0.25
+Parsed: 0.25
+
+--- Entry 37 ---
+Prompt:
+[DNA_START]CCTCCTCCTCGCCCGCTCTT[DNA_END]
+Target gene: Homo sapiens v-raf-1 murine leukemia viral oncogene homolog 1 (RAF1), mRNA
+Inhibition efficacy score (as a number between 0 and 1):
+Output:
+0.185
+Parsed: 0.185
+
+--- Entry 38 ---
+Prompt:
+[DNA_START]CCGCTCTTCGACGGCGGCTT[DNA_END]
+Target gene: Homo sapiens v-raf-1 murine leukemia viral oncogene homolog 1 (RAF1), mRNA
+Inhibition efficacy score (as a number between 0 and 1):
+Output:
+0.5
+Parsed: 0.5
+
+--- Entry 39 ---
+Prompt:
+[DNA_START]GCTGTCCTGCAACCCCGCCG[DNA_END]
+Target gene: Homo sapiens v-raf-1 murine leukemia viral oncogene homolog 1 (RAF1), mRNA
+Inhibition efficacy score (as a number between 0 and 1):
+Output:
+0.675
+Parsed: 0.675
+
+--- Entry 40 ---
+Prompt:
+[DNA_START]CGAGGGAGTCCAAATTCTTA[DNA_END]
+Target gene: Homo sapiens v-raf-1 murine leukemia viral oncogene homolog 1 (RAF1), mRNA
+Inhibition efficacy score (as a number between 0 and 1):
+Output:
+0.95
+Parsed: 0.95
+
+--- Entry 41 ---
+Prompt:
+[DNA_START]TCTTAACAAATTCGACGTAG[DNA_END]
+Target gene: Homo sapiens v-raf-1 murine leukemia viral oncogene homolog 1 (RAF1), mRNA
+Inhibition efficacy score (as a number between 0 and 1):
+Output:
+0.25 (0.25)
+Parsed: 0.25
+
+--- Entry 42 ---
+Prompt:
+[DNA_START]AGTTACCTCGTGTATGTCCC[DNA_END]
+Target gene: Homo sapiens v-raf-1 murine leukemia viral oncogene homolog 1 (RAF1), mRNA
+Inhibition efficacy score (as a number between 0 and 1):
+Output:
+0.97
+Parsed: 0.97
+
+--- Entry 43 ---
+Prompt:
+[DNA_START]GAAGATCAACTGAAACGTGG[DNA_END]
+Target gene: Homo sapiens v-raf-1 murine leukemia viral oncogene homolog 1 (RAF1), mRNA
+Inhibition efficacy score (as a number between 0 and 1):
+Output:
+0.434
+Parsed: 0.434
+
+--- Entry 44 ---
+Prompt:
+[DNA_START]GACGGTCCCCTCCTCCTCTT[DNA_END]
+Target gene: Homo sapiens v-raf-1 murine leukemia viral oncogene homolog 1 (RAF1), mRNA
+Inhibition efficacy score (as a number between 0 and 1):
+Output:
+0.1021139
+Parsed: 0.1021139
+
+--- Entry 45 ---
+Prompt:
+[DNA_START]TCCCCTCCTCCTCTTCGGTC[DNA_END]
+Target gene: Homo sapiens v-raf-1 murine leukemia viral oncogene homolog 1 (RAF1), mRNA
+Inhibition efficacy score (as a number between 0 and 1):
+Output:
+0.96
+Parsed: 0.96
+
+--- Entry 46 ---
+Prompt:
+[DNA_START]CTCCTCCTCTTCGGTCGTCC[DNA_END]
+Target gene: Homo sapiens v-raf-1 murine leukemia viral oncogene homolog 1 (RAF1), mRNA
+Inhibition efficacy score (as a number between 0 and 1):
+Output:
+0.79 (0.04)
+Parsed: 0.79
+
+--- Entry 47 ---
+Prompt:
+[DNA_START]CCTTCGGTAAACGTCACGAC[DNA_END]
+Target gene: Homo sapiens v-raf-1 murine leukemia viral oncogene homolog 1 (RAF1), mRNA
+Inhibition efficacy score (as a number between 0 and 1):
+Output:
+0.658 (IC50)
+Parsed: 0.6585
+
+--- Entry 48 ---
+Prompt:
+[DNA_START]GGGTGTAAGGGGTACGAGTT[DNA_END]
+Target gene: Homo sapiens v-raf-1 murine leukemia viral oncogene homolog 1 (RAF1), mRNA
+Inhibition efficacy score (as a number between 0 and 1):
+Output:
+0.43 (19.8% inhibition)
+Parsed: 0.4319
+
+--- Entry 49 ---
+Prompt:
+[DNA_START]TCGGGGTCGACAACCGATGT[DNA_END]
+Target gene: Homo sapiens v-raf-1 murine leukemia viral oncogene homolog 1 (RAF1), mRNA
+Inhibition efficacy score (as a number between 0 and 1):
+Output:
+0.8
+Parsed: 0.8
+
+--- Entry 50 ---
+Prompt:
+[DNA_START]TCGTCCGTCAGGTCGGGACT[DNA_END]
+Target gene: Homo sapiens v-raf-1 murine leukemia viral oncogene homolog 1 (RAF1), mRNA
+Inhibition efficacy score (as a number between 0 and 1):
+Output:
+0.65
+Parsed: 0.65
+
+--- Entry 51 ---
+Prompt:
+[DNA_START]GTACCCTAAAACCTTTAGTC[DNA_END]
+Target gene: Homo sapiens v-raf-1 murine leukemia viral oncogene homolog 1 (RAF1), mRNA
+Inhibition efficacy score (as a number between 0 and 1):
+Output:
+0.93
+Parsed: 0.93
+
+--- Entry 52 ---
+Prompt:
+[DNA_START]TTACGTACAGTGTCCGCCCT[DNA_END]
+Target gene: Homo sapiens v-raf-1 murine leukemia viral oncogene homolog 1 (RAF1), mRNA
+Inhibition efficacy score (as a number between 0 and 1):
+Output:
+0.3168
+Parsed: 0.3168
+
+--- Entry 53 ---
+Prompt:
+[DNA_START]CTCTCACCACGTCGCGGTCT[DNA_END]
+Target gene: Homo sapiens v-raf-1 murine leukemia viral oncogene homolog 1 (RAF1), mRNA
+Inhibition efficacy score (as a number between 0 and 1):
+Output:
+0.41
+Parsed: 0.41
+
+--- Entry 54 ---
+Prompt:
+[DNA_START]TCTCACCACGTCGCGGTCTG[DNA_END]
+Target gene: Homo sapiens v-raf-1 murine leukemia viral oncogene homolog 1 (RAF1), mRNA
+Inhibition efficacy score (as a number between 0 and 1):
+Output:
+0.0064
+Parsed: 0.0064
+
+--- Entry 55 ---
+Prompt:
+[DNA_START]ATTCCGTGGTTTGTCGGGTC[DNA_END]
+Target gene: Homo sapiens v-raf-1 murine leukemia viral oncogene homolog 1 (RAF1), mRNA
+Inhibition efficacy score (as a number between 0 and 1):
+Output:
+0.93
+Parsed: 0.93
+
+--- Entry 56 ---
+Prompt:
+[DNA_START]GGCGTAGAGTCGGGAGAGTC[DNA_END]
+Target gene: Homo sapiens v-raf-1 murine leukemia viral oncogene homolog 1 (RAF1), mRNA
+Inhibition efficacy score (as a number between 0 and 1):
+Output:
+0.33
+Parsed: 0.33
+
+--- Entry 57 ---
+Prompt:
+[DNA_START]CTTAAAACAGAAGGTCCTCG[DNA_END]
+Target gene: Homo sapiens v-raf-1 murine leukemia viral oncogene homolog 1 (RAF1), mRNA
+Inhibition efficacy score (as a number between 0 and 1):
+Output:
+0.00
+Parsed: 0.0
+
+--- Entry 58 ---
+Prompt:
+[DNA_START]CGGAACAAAGAGATCAGTGT[DNA_END]
+Target gene: Homo sapiens v-raf-1 murine leukemia viral oncogene homolog 1 (RAF1), mRNA
+Inhibition efficacy score (as a number between 0 and 1):
+Output:
+0.8735
+Parsed: 0.8735
+
+--- Entry 59 ---
+Prompt:
+[DNA_START]GTCCTTATGTCCAAAAGAAC[DNA_END]
+Target gene: Homo sapiens v-raf-1 murine leukemia viral oncogene homolog 1 (RAF1), mRNA
+Inhibition efficacy score (as a number between 0 and 1):
+Output:
+0.0429 (as a percentage: 4.3%)
+Parsed: 0.04294
+
+--- Entry 60 ---
+Prompt:
+[DNA_START]CAAAAATAACGTGGACTGTT[DNA_END]
+Target gene: Homo sapiens v-raf-1 murine leukemia viral oncogene homolog 1 (RAF1), mRNA
+Inhibition efficacy score (as a number between 0 and 1):
+Output:
+0.031
+Parsed: 0.031
+
+--- Entry 61 ---
+Prompt:
+[DNA_START]GGAGTTAATACAATAAAATT[DNA_END]
+Target gene: Homo sapiens v-raf-1 murine leukemia viral oncogene homolog 1 (RAF1), mRNA
+Inhibition efficacy score (as a number between 0 and 1):
+Output:
+0.716
+Parsed: 0.716
+
+--- Entry 62 ---
+Prompt:
+[DNA_START]CCTTTTCTTTGGTTGACAGT[DNA_END]
+Target gene: Homo sapiens P-glycoprotein (PGY1) mRNA
+Inhibition efficacy score (as a number between 0 and 1):
+Output:
+0.29
+Parsed: 0.29
+
+--- Entry 63 ---
+Prompt:
+[DNA_START]TTTTCTTTGGTTGACAGTCA[DNA_END]
+Target gene: Homo sapiens P-glycoprotein (PGY1) mRNA
+Inhibition efficacy score (as a number between 0 and 1):
+Output:
+0.000
+Parsed: 0.0
+
+--- Entry 64 ---
+Prompt:
+[DNA_START]TTCTTTGGTTGACAGTCACA[DNA_END]
+Target gene: Homo sapiens P-glycoprotein (PGY1) mRNA
+Inhibition efficacy score (as a number between 0 and 1):
+Output:
+0.8
+Parsed: 0.8
+
+--- Entry 65 ---
+Prompt:
+[DNA_START]AAAAATTTGACTTGTTATTT[DNA_END]
+Target gene: Homo sapiens P-glycoprotein (PGY1) mRNA
+Inhibition efficacy score (as a number between 0 and 1):
+Output:
+0.86
+Parsed: 0.86
+
+--- Entry 66 ---
+Prompt:
+[DNA_START]AATTTGACTTGTTATTTTCA[DNA_END]
+Target gene: Homo sapiens P-glycoprotein (PGY1) mRNA
+Inhibition efficacy score (as a number between 0 and 1):
+Output:
+0.77
+Parsed: 0.77
+
+--- Entry 67 ---
+Prompt:
+[DNA_START]GTTACCTCCTCGTTTCTTCT[DNA_END]
+Target gene: Homo sapiens P-glycoprotein (PGY1) mRNA
+Inhibition efficacy score (as a number between 0 and 1):
+Output:
+0.99
+Parsed: 0.99
+
+--- Entry 68 ---
+Prompt:
+[DNA_START]ACCTCCTCGTTTCTTCTTCT[DNA_END]
+Target gene: Homo sapiens P-glycoprotein (PGY1) mRNA
+Inhibition efficacy score (as a number between 0 and 1):
+Output:
+0.612
+Parsed: 0.612
+
+--- Entry 69 ---
+Prompt:
+[DNA_START]TCCTCGTTTCTTCTTCTTGA[DNA_END]
+Target gene: Homo sapiens P-glycoprotein (PGY1) mRNA
+Inhibition efficacy score (as a number between 0 and 1):
+Output:
+0.65
+Parsed: 0.65
+
+--- Entry 70 ---
+Prompt:
+[DNA_START]AACTTCCCCTGGCGTTACCT[DNA_END]
+Target gene: Homo sapiens P-glycoprotein (PGY1) mRNA
+Inhibition efficacy score (as a number between 0 and 1):
+Output:
+0.000000
+Parsed: 0.0
+
+--- Entry 71 ---
+Prompt:
+[DNA_START]TTCCCCTGGCGTTACCTCCT[DNA_END]
+Target gene: Homo sapiens P-glycoprotein (PGY1) mRNA
+Inhibition efficacy score (as a number between 0 and 1):
+Output:
+0.723
+Parsed: 0.723
+
+--- Entry 72 ---
+Prompt:
+[DNA_START]CCCTGGCGTTACCTCCTCGT[DNA_END]
+Target gene: Homo sapiens P-glycoprotein (PGY1) mRNA
+Inhibition efficacy score (as a number between 0 and 1):
+Output:
+0.23
+Parsed: 0.23
+
+--- Entry 73 ---
+Prompt:
+[DNA_START]CAAGGTTCCTCGCGCTCCAG[DNA_END]
+Target gene: Homo sapiens P-glycoprotein (PGY1) mRNA
+Inhibition efficacy score (as a number between 0 and 1):
+Output:
+0.3
+Parsed: 0.3
+
+--- Entry 74 ---
+Prompt:
+[DNA_START]AGGTTCCTCGCGCTCCAGCC[DNA_END]
+Target gene: Homo sapiens P-glycoprotein (PGY1) mRNA
+Inhibition efficacy score (as a number between 0 and 1):
+Output:
+0.5
+Parsed: 0.5
+
+--- Entry 75 ---
+Prompt:
+[DNA_START]TTCCTCGCGCTCCAGCCCTA[DNA_END]
+Target gene: Homo sapiens P-glycoprotein (PGY1) mRNA
+Inhibition efficacy score (as a number between 0 and 1):
+Output:
+0.97
+Parsed: 0.97
+
+--- Entry 76 ---
+Prompt:
+[DNA_START]ACCACCGGCAAGGTTCCTCG[DNA_END]
+Target gene: Homo sapiens P-glycoprotein (PGY1) mRNA
+Inhibition efficacy score (as a number between 0 and 1):
+Output:
+0.671
+Parsed: 0.671
+
+--- Entry 77 ---
+Prompt:
+[DNA_START]CACCGGCAAGGTTCCTCGCG[DNA_END]
+Target gene: Homo sapiens P-glycoprotein (PGY1) mRNA
+Inhibition efficacy score (as a number between 0 and 1):
+Output:
+0.76
+Parsed: 0.76
+
+--- Entry 78 ---
+Prompt:
+[DNA_START]CAGAAAGGTGATTTCAGCCT[DNA_END]
+Target gene: Homo sapiens P-glycoprotein (PGY1) mRNA
+Inhibition efficacy score (as a number between 0 and 1):
+Output:
+0.18
+Parsed: 0.18
+
+--- Entry 79 ---
+Prompt:
+[DNA_START]AAAGGTGATTTCAGCCTCAT[DNA_END]
+Target gene: Homo sapiens P-glycoprotein (PGY1) mRNA
+Inhibition efficacy score (as a number between 0 and 1):
+Output:
+0.6
+Parsed: 0.6
+
+--- Entry 80 ---
+Prompt:
+[DNA_START]TCATCGCCGAGAAGGTTCGA[DNA_END]
+Target gene: Homo sapiens P-glycoprotein (PGY1) mRNA
+Inhibition efficacy score (as a number between 0 and 1):
+Output:
+0.09
+Parsed: 0.09
+
+--- Entry 81 ---
+Prompt:
+[DNA_START]ATCGCCGAGAAGGTTCGAGT[DNA_END]
+Target gene: Homo sapiens P-glycoprotein (PGY1) mRNA
+Inhibition efficacy score (as a number between 0 and 1):
+Output:
+0.0136296
+Parsed: 0.0136296
+
+--- Entry 82 ---
+Prompt:
+[DNA_START]GTCCGCCGCAACGCCGGGGC[DNA_END]
+Target gene: Homo sapiens ATP-binding cassette (ABCC1), mRNA
+Inhibition efficacy score (as a number between 0 and 1):
+Output:
+0.471
+Parsed: 0.471
+
+--- Entry 83 ---
+Prompt:
+[DNA_START]TCGTTGGCCCGGGCTAGTGG[DNA_END]
+Target gene: Homo sapiens ATP-binding cassette (ABCC1), mRNA
+Inhibition efficacy score (as a number between 0 and 1):
+Output:
+0.427 (based on 23452680 binding sites)
+Parsed: 0.4272345268
+
+--- Entry 84 ---
+Prompt:
+[DNA_START]CGGCGGCGGGCGCGGTGGCC[DNA_END]
+Target gene: Homo sapiens ATP-binding cassette (ABCC1), mRNA
+Inhibition efficacy score (as a number between 0 and 1):
+Output:
+0.05
+Parsed: 0.05
+
+--- Entry 85 ---
+Prompt:
+[DNA_START]GCCGTACCGCGAGGCCCCGA[DNA_END]
+Target gene: Homo sapiens ATP-binding cassette (ABCC1), mRNA
+Inhibition efficacy score (as a number between 0 and 1):
+Output:
+0.478975
+Parsed: 0.478975
+
+--- Entry 86 ---
+Prompt:
+[DNA_START]ACGTCGCGGCTACCGAGGCT[DNA_END]
+Target gene: Homo sapiens ATP-binding cassette (ABCC1), mRNA
+Inhibition efficacy score (as a number between 0 and 1):
+Output:
+0.68
+Parsed: 0.68
+
+--- Entry 87 ---
+Prompt:
+[DNA_START]TGCCAGGAGCACACCCACGG[DNA_END]
+Target gene: Homo sapiens ATP-binding cassette (ABCC1), mRNA
+Inhibition efficacy score (as a number between 0 and 1):
+Output:
+0.6684
+Parsed: 0.6684
+
+--- Entry 88 ---
+Prompt:
+[DNA_START]GCCGCCCCCGTGCTTGTCGT[DNA_END]
+Target gene: Homo sapiens ATP-binding cassette (ABCC1), mRNA
+Inhibition efficacy score (as a number between 0 and 1):
+Output:
+0.3
+Parsed: 0.3
+
+--- Entry 89 ---
+Prompt:
+[DNA_START]ACCCCCGGTCTTCGTCGCGC[DNA_END]
+Target gene: Homo sapiens ATP-binding cassette (ABCC1), mRNA
+Inhibition efficacy score (as a number between 0 and 1):
+Output:
+0.782
+Parsed: 0.782
+
+--- Entry 90 ---
+Prompt:
+[DNA_START]GACCGGTGCGGGTAGCGGCG[DNA_END]
+Target gene: Homo sapiens ATP-binding cassette (ABCC1), mRNA
+Inhibition efficacy score (as a number between 0 and 1):
+Output:
+0.33
+Parsed: 0.33
+
+--- Entry 91 ---
+Prompt:
+[DNA_START]CGCGGGGTAGCCTGGAGGAC[DNA_END]
+Target gene: Homo sapiens ATP-binding cassette (ABCC1), mRNA
+Inhibition efficacy score (as a number between 0 and 1):
+Output:
+0.5097274356848872
+Parsed: 0.5097274356848872
+
+--- Entry 92 ---
+Prompt:
+[DNA_START]CTGCGGCCGAACCACACTCG[DNA_END]
+Target gene: Homo sapiens ATP-binding cassette (ABCC1), mRNA
+Inhibition efficacy score (as a number between 0 and 1):
+Output:
+0.5
+Parsed: 0.5
+
+--- Entry 93 ---
+Prompt:
+[DNA_START]ACGGTCGCGGGTCCCTCCTC[DNA_END]
+Target gene: Homo sapiens ATP-binding cassette (ABCC1), mRNA
+Inhibition efficacy score (as a number between 0 and 1):
+Output:
+0.98
+Parsed: 0.98
+
+--- Entry 94 ---
+Prompt:
+[DNA_START]TCGTCGGTGGCGGTAGGCCA[DNA_END]
+Target gene: Homo sapiens ATP-binding cassette (ABCC1), mRNA
+Inhibition efficacy score (as a number between 0 and 1):
+Output:
+0.95
+Parsed: 0.95
+
+--- Entry 95 ---
+Prompt:
+[DNA_START]GGTCCTCTCTGTCTCTACGC[DNA_END]
+Target gene: Homo sapiens ATP-binding cassette (ABCC1), mRNA
+Inhibition efficacy score (as a number between 0 and 1):
+Output:
+0.984367
+Parsed: 0.984367
+
+--- Entry 96 ---
+Prompt:
+[DNA_START]TAGTGCGCGGGGTCAGCTGCG[DNA_END]
+Target gene: Human intercellular adhesion molecule-1 (ICAM-1)
+Inhibition efficacy score (as a number between 0 and 1):
+Output:
+0.55 (BioLQ 2.0)
+Parsed: 0.552
+
+--- Entry 97 ---
+Prompt:
+[DNA_START]AGCTGCGACTCGAGG[DNA_END]
+Target gene: Human intercellular adhesion molecule-1 (ICAM-1)
+Inhibition efficacy score (as a number between 0 and 1):
+Output:
+0.98
+Parsed: 0.98
+
+--- Entry 98 ---
+Prompt:
+[DNA_START]GACTCGAGGAGACGATGAGTCT[DNA_END]
+Target gene: Human intercellular adhesion molecule-1 (ICAM-1)
+Inhibition efficacy score (as a number between 0 and 1):
+Output:
+0.735
+Parsed: 0.735
+
+--- Entry 99 ---
+Prompt:
+[DNA_START]ACTCGAGGAGACGATGAGTCT[DNA_END]
+Target gene: Human intercellular adhesion molecule-1 (ICAM-1)
+Inhibition efficacy score (as a number between 0 and 1):
+Output:
+0.762
+Parsed: 0.762
+
+--- Entry 100 ---
+Prompt:
+[DNA_START]CTCGAGGAGACGATGAGTCTC[DNA_END]
+Target gene: Human intercellular adhesion molecule-1 (ICAM-1)
+Inhibition efficacy score (as a number between 0 and 1):
+Output:
+0.46
+Parsed: 0.46
+
+--- Entry 101 ---
+Prompt:
+[DNA_START]CGAGGAGACGATGAG[DNA_END]
+Target gene: Human intercellular adhesion molecule-1 (ICAM-1)
+Inhibition efficacy score (as a number between 0 and 1):
+Output:
+0.64
+Parsed: 0.64
+
+--- Entry 102 ---
+Prompt:
+[DNA_START]GGAGACGATGAGTCTC[DNA_END]
+Target gene: Human intercellular adhesion molecule-1 (ICAM-1)
+Inhibition efficacy score (as a number between 0 and 1):
+Output:
+0.43
+Parsed: 0.43
+
+--- Entry 103 ---
+Prompt:
+[DNA_START]GAGTCTCAACGTTGG[DNA_END]
+Target gene: Human intercellular adhesion molecule-1 (ICAM-1)
+Inhibition efficacy score (as a number between 0 and 1):
+Output:
+0.875
+Parsed: 0.875
+
+--- Entry 104 ---
+Prompt:
+[DNA_START]CGTTGGAGTC[DNA_END]
+Target gene: Human intercellular adhesion molecule-1 (ICAM-1)
+Inhibition efficacy score (as a number between 0 and 1):
+Output:
+0.73
+Parsed: 0.73
+
+--- Entry 105 ---
+Prompt:
+[DNA_START]GTTGGAGTCGG[DNA_END]
+Target gene: Human intercellular adhesion molecule-1 (ICAM-1)
+Inhibition efficacy score (as a number between 0 and 1):
+Output:
+0.967
+Parsed: 0.967
+
+--- Entry 106 ---
+Prompt:
+[DNA_START]GAGTCGGAGCGA[DNA_END]
+Target gene: Human intercellular adhesion molecule-1 (ICAM-1)
+Inhibition efficacy score (as a number between 0 and 1):
+Output:
+0.652
+Parsed: 0.652
+
+--- Entry 107 ---
+Prompt:
+[DNA_START]GTCGGAGCGA[DNA_END]
+Target gene: Human intercellular adhesion molecule-1 (ICAM-1)
+Inhibition efficacy score (as a number between 0 and 1):
+Output:
+0.42
+Parsed: 0.42
+
+--- Entry 108 ---
+Prompt:
+[DNA_START]TTGGAGTCGGAGCGATACCGA[DNA_END]
+Target gene: Human intercellular adhesion molecule-1 (ICAM-1)
+Inhibition efficacy score (as a number between 0 and 1):
+Output:
+0.665
+Parsed: 0.665
+
+--- Entry 109 ---
+Prompt:
+[DNA_START]CGTTGGAGTCGGAGCGATAC[DNA_END]
+Target gene: Human intercellular adhesion molecule-1 (ICAM-1)
+Inhibition efficacy score (as a number between 0 and 1):
+Output:
+0.7
+Parsed: 0.7
+
+--- Entry 110 ---
+Prompt:
+[DNA_START]GAGCGATACCGAGGGT[DNA_END]
+Target gene: Human intercellular adhesion molecule-1 (ICAM-1)
+Inhibition efficacy score (as a number between 0 and 1):
+Output:
+0.461
+Parsed: 0.461
+
+--- Entry 111 ---
+Prompt:
+[DNA_START]CGGAGCGATACCGAGG[DNA_END]
+Target gene: Human intercellular adhesion molecule-1 (ICAM-1)
+Inhibition efficacy score (as a number between 0 and 1):
+Output:
+0.83
+Parsed: 0.83
+
+--- Entry 112 ---
+Prompt:
+[DNA_START]CGGAGCGATACCGA[DNA_END]
+Target gene: Human intercellular adhesion molecule-1 (ICAM-1)
+Inhibition efficacy score (as a number between 0 and 1):
+Output:
+0.85
+Parsed: 0.85
+
+--- Entry 113 ---
+Prompt:
+[DNA_START]CGGAGCGATACC[DNA_END]
+Target gene: Human intercellular adhesion molecule-1 (ICAM-1)
+Inhibition efficacy score (as a number between 0 and 1):
+Output:
+0.7
+Parsed: 0.7
+
+--- Entry 114 ---
+Prompt:
+[DNA_START]CGGAGCGATA[DNA_END]
+Target gene: Human intercellular adhesion molecule-1 (ICAM-1)
+Inhibition efficacy score (as a number between 0 and 1):
+Output:
+0.87
+Parsed: 0.87
+
+--- Entry 115 ---
+Prompt:
+[DNA_START]CGAGGGTCGTCGGGGGC[DNA_END]
+Target gene: Human intercellular adhesion molecule-1 (ICAM-1)
+Inhibition efficacy score (as a number between 0 and 1):
+Output:
+0.81
+Parsed: 0.81
+
+--- Entry 116 ---
+Prompt:
+[DNA_START]ACTCTCCCCTTCACCACCCCC[DNA_END]
+Target gene: Human intercellular adhesion molecule-1 (ICAM-1)
+Inhibition efficacy score (as a number between 0 and 1):
+Output:
+0.66
+Parsed: 0.66
+
+--- Entry 117 ---
+Prompt:
+[DNA_START]AATGTCTTCTTCACCGGG[DNA_END]
+Target gene: Human intercellular adhesion molecule-1 (ICAM-1)
+Inhibition efficacy score (as a number between 0 and 1):
+Output:
+0.99
+Parsed: 0.99
+
+--- Entry 118 ---
+Prompt:
+[DNA_START]CTTCACCGGGAGGTATC[DNA_END]
+Target gene: Human intercellular adhesion molecule-1 (ICAM-1)
+Inhibition efficacy score (as a number between 0 and 1):
+Output:
+0.96
+Parsed: 0.96
+
+--- Entry 119 ---
+Prompt:
+[DNA_START]GGGAGGTATCTGTACACATCG[DNA_END]
+Target gene: Human intercellular adhesion molecule-1 (ICAM-1)
+Inhibition efficacy score (as a number between 0 and 1):
+Output:
+0.56
+Parsed: 0.56
+
+--- Entry 120 ---
+Prompt:
+[DNA_START]CTGTACACATCGTAG[DNA_END]
+Target gene: Human intercellular adhesion molecule-1 (ICAM-1)
+Inhibition efficacy score (as a number between 0 and 1):
+Output:
+0.00000000000000000000000000000
+Parsed: 0.0
+
+--- Entry 121 ---
+Prompt:
+[DNA_START]GGTGGGTGTATGTAAAGACGG[DNA_END]
+Target gene: Human intercellular adhesion molecule-1 (ICAM-1)
+Inhibition efficacy score (as a number between 0 and 1):
+Output:
+0.95
+Parsed: 0.95
+
+--- Entry 122 ---
+Prompt:
+[DNA_START]ACACACACACACACATACACA[DNA_END]
+Target gene: Human intercellular adhesion molecule-1 (ICAM-1)
+Inhibition efficacy score (as a number between 0 and 1):
+Output:
+0.91
+Parsed: 0.91
+
+--- Entry 123 ---
+Prompt:
+[DNA_START]GGGACGTTACCGAAGTTGGG[DNA_END]
+Target gene: Mouse ICAM-1 mRNA
+Inhibition efficacy score (as a number between 0 and 1):
+Output:
+0.92 (0.92)
+Parsed: 0.92
+
+--- Entry 124 ---
+Prompt:
+[DNA_START]GGGACTCGGACGACCTACTC[DNA_END]
+Target gene: Mouse ICAM-1 mRNA
+Inhibition efficacy score (as a number between 0 and 1):
+Output:
+0.87
+Parsed: 0.87
+
+--- Entry 125 ---
+Prompt:
+[DNA_START]GGGAGTCGGTGAAGGAGACC[DNA_END]
+Target gene: Mouse ICAM-1 mRNA
+Inhibition efficacy score (as a number between 0 and 1):
+Output:
+0.737
+Parsed: 0.737
+
+--- Entry 126 ---
+Prompt:
+[DNA_START]TACCACCGGACCCCCTACGT[DNA_END]
+Target gene: Mouse ICAM-1 mRNA
+Inhibition efficacy score (as a number between 0 and 1):
+Output:
+0.91
+Parsed: 0.91
+
+--- Entry 127 ---
+Prompt:
+[DNA_START]CGGACCCCCTACGTGTGAAC[DNA_END]
+Target gene: Mouse ICAM-1 mRNA
+Inhibition efficacy score (as a number between 0 and 1):
+Output:
+0.66
+Parsed: 0.66
+
+--- Entry 128 ---
+Prompt:
+[DNA_START]TTCGACTCTGTAACAGGGTT[DNA_END]
+Target gene: Mouse ICAM-1 mRNA
+Inhibition efficacy score (as a number between 0 and 1):
+Output:
+0.885
+Parsed: 0.885
+
+--- Entry 129 ---
+Prompt:
+[DNA_START]TTTGTGATACACCTGACCGT[DNA_END]
+Target gene: Mouse ICAM-1 mRNA
+Inhibition efficacy score (as a number between 0 and 1):
+Output:
+0.89
+Parsed: 0.89
+
+--- Entry 130 ---
+Prompt:
+[DNA_START]GACGACACCCTCCCATTCGT[DNA_END]
+Target gene: Mouse ICAM-1 mRNA
+Inhibition efficacy score (as a number between 0 and 1):
+Output:
+0.858
+Parsed: 0.858
+
+--- Entry 131 ---
+Prompt:
+[DNA_START]TGGTCGATAAATAACTCACAG[DNA_END]
+Target gene: Human intercellular adhesion molecule-1 (ICAM-1)
+Inhibition efficacy score (as a number between 0 and 1):
+Output:
+0.86 (excellent inhibition efficiency)
+Parsed: 0.86
+
+--- Entry 132 ---
+Prompt:
+[DNA_START]AGGAGGGTGGAGTCGGAG[DNA_END]
+Target gene: Human intercellular adhesion molecule-1 (ICAM-1)
+Inhibition efficacy score (as a number between 0 and 1):
+Output:
+0.94
+Parsed: 0.94
+
+--- Entry 133 ---
+Prompt:
+[DNA_START]GAAAGGGTGACGGGTAGC[DNA_END]
+Target gene: Human intercellular adhesion molecule-1 (ICAM-1)
+Inhibition efficacy score (as a number between 0 and 1):
+Output:
+0.77
+Parsed: 0.77
+
+--- Entry 134 ---
+Prompt:
+[DNA_START]CGATATTCCTAGTGCGCGGG[DNA_END]
+Target gene: Human intercellular adhesion molecule-1 (ICAM-1)
+Inhibition efficacy score (as a number between 0 and 1):
+Output:
+0.69
+Parsed: 0.69
+
+--- Entry 135 ---
+Prompt:
+[DNA_START]AGTTTGACGGGACTACCCGT[DNA_END]
+Target gene: Human intercellular adhesion molecule-1 (ICAM-1)
+Inhibition efficacy score (as a number between 0 and 1):
+Output:
+0.0000
+Parsed: 0.0
+
+--- Entry 136 ---
+Prompt:
+[DNA_START]ACTTGGATAGGGCCCTGTCC[DNA_END]
+Target gene: Human intercellular adhesion molecule-1 (ICAM-1)
+Inhibition efficacy score (as a number between 0 and 1):
+Output:
+0.87
+Parsed: 0.87
+
+--- Entry 137 ---
+Prompt:
+[DNA_START]CTCTCCCCTTCACCACCCCC[DNA_END]
+Target gene: Human intercellular adhesion molecule-1 (ICAM-1)
+Inhibition efficacy score (as a number between 0 and 1):
+Output:
+0.7
+Parsed: 0.7
+
+--- Entry 138 ---
+Prompt:
+[DNA_START]TCAATTATTTCGAAAGAGTT[DNA_END]
+Target gene: Human intercellular adhesion molecule-1 (ICAM-1)
+Inhibition efficacy score (as a number between 0 and 1):
+Output:
+0.72 (ICAM-1)
+Parsed: 0.721
+
+--- Entry 139 ---
+Prompt:
+[DNA_START]CCTCGTTCTCCACCAACCCC[DNA_END]
+Target gene: Human PKC alpha mRNA
+Inhibition efficacy score (as a number between 0 and 1):
+Output:
+0.0778
+Parsed: 0.0778
+
+--- Entry 140 ---
+Prompt:
+[DNA_START]CCCTGGTACCGACTGCAAAA[DNA_END]
+Target gene: Human PKC alpha mRNA
+Inhibition efficacy score (as a number between 0 and 1):
+Output:
+0.765
+Parsed: 0.765
+
+--- Entry 141 ---
+Prompt:
+[DNA_START]TACCGACTGCAAAAGGGCCC[DNA_END]
+Target gene: Human PKC alpha mRNA
+Inhibition efficacy score (as a number between 0 and 1):
+Output:
+0.65
+Parsed: 0.65
+
+--- Entry 142 ---
+Prompt:
+[DNA_START]CCCCCCCCTGGTACCGACTG[DNA_END]
+Target gene: Human PKC alpha mRNA
+Inhibition efficacy score (as a number between 0 and 1):
+Output:
+0.5
+Parsed: 0.5
+
+--- Entry 143 ---
+Prompt:
+[DNA_START]GCCCGTTGCTGAGGTGCCGC[DNA_END]
+Target gene: Human PKC alpha mRNA
+Inhibition efficacy score (as a number between 0 and 1):
+Output:
+0.56
+Parsed: 0.56
+
+--- Entry 144 ---
+Prompt:
+[DNA_START]CGTTTCCCCGCGACTCCGTC[DNA_END]
+Target gene: Human PKC alpha mRNA
+Inhibition efficacy score (as a number between 0 and 1):
+Output:
+0.54
+Parsed: 0.54
+
+--- Entry 145 ---
+Prompt:
+[DNA_START]AGTTACAGGGGTCGGAGACG[DNA_END]
+Target gene: Human PKC alpha mRNA
+Inhibition efficacy score (as a number between 0 and 1):
+Output:
+0.36
+Parsed: 0.36
+
+--- Entry 146 ---
+Prompt:
+[DNA_START]GGGGTCAAACACGTGGGGTA[DNA_END]
+Target gene: Human PKC alpha mRNA
+Inhibition efficacy score (as a number between 0 and 1):
+Output:
+0.82
+Parsed: 0.82
+
+--- Entry 147 ---
+Prompt:
+[DNA_START]CGGCCCGTCGGAGGTAAACT[DNA_END]
+Target gene: Human PKC alpha mRNA
+Inhibition efficacy score (as a number between 0 and 1):
+Output:
+0.57
+Parsed: 0.57
+
+--- Entry 148 ---
+Prompt:
+[DNA_START]ACTTTGAGTGGTCGCTCTTG[DNA_END]
+Target gene: Human PKC alpha mRNA
+Inhibition efficacy score (as a number between 0 and 1):
+Output:
+0.53
+Parsed: 0.53
+
+--- Entry 149 ---
+Prompt:
+[DNA_START]GGGCGTCACCTTCACTTAGG[DNA_END]
+Target gene: Human PKC alpha mRNA
+Inhibition efficacy score (as a number between 0 and 1):
+Output:
+0.82
+Parsed: 0.82
+
+--- Entry 150 ---
+Prompt:
+[DNA_START]CTAGTTGACAAGTCCCAGAG[DNA_END]
+Target gene: Human PKC alpha mRNA
+Inhibition efficacy score (as a number between 0 and 1):
+Output:
+0.00
+Parsed: 0.0
+
+--- Entry 151 ---
+Prompt:
+[DNA_START]GGGGTCGGGAGGGGCGTCAC[DNA_END]
+Target gene: Human PKC alpha mRNA
+Inhibition efficacy score (as a number between 0 and 1):
+Output:
+0.78
+Parsed: 0.78
+
+--- Entry 152 ---
+Prompt:
+[DNA_START]TTTTAAAATTCCGGTGCCGA[DNA_END]
+Target gene: Human PKC alpha mRNA
+Inhibition efficacy score (as a number between 0 and 1):
+Output:
+0.35
+Parsed: 0.35
+
+--- Entry 153 ---
+Prompt:
+[DNA_START]GGTATACCTCCGGACTTTTA[DNA_END]
+Target gene: Human PKC alpha mRNA
+Inhibition efficacy score (as a number between 0 and 1):
+Output:
+0.648
+Parsed: 0.648
+
+--- Entry 154 ---
+Prompt:
+[DNA_START]GACAAGTCCCAGAGAGAGAA[DNA_END]
+Target gene: Human PKC alpha mRNA
+Inhibition efficacy score (as a number between 0 and 1):
+Output:
+0.0015
+Parsed: 0.0015
+
+--- Entry 155 ---
+Prompt:
+[DNA_START]AATGTTGGTTCTTGTAATAG[DNA_END]
+Target gene: Human PKC alpha mRNA
+Inhibition efficacy score (as a number between 0 and 1):
+Output:
+0.59
+Parsed: 0.59
+
+--- Entry 156 ---
+Prompt:
+[DNA_START]TGCCGAACACAGACTAAGGT[DNA_END]
+Target gene: Human PKC alpha mRNA
+Inhibition efficacy score (as a number between 0 and 1):
+Output:
+0.96
+Parsed: 0.96
+
+--- Entry 157 ---
+Prompt:
+[DNA_START]TCGACTTATGGGAGGGTCCG[DNA_END]
+Target gene: Homo sapiens VCAM1, transcript variant 1, mRNA
+Inhibition efficacy score (as a number between 0 and 1):
+Output:
+0.87 (0.68 - 1.0)
+Parsed: 0.87
+
+--- Entry 158 ---
+Prompt:
+[DNA_START]GGGAGGGTCCGTGTGTGTCC[DNA_END]
+Target gene: Homo sapiens VCAM1, transcript variant 1, mRNA
+Inhibition efficacy score (as a number between 0 and 1):
+Output:
+0.63
+Parsed: 0.63
+
+--- Entry 159 ---
+Prompt:
+[DNA_START]GCTGTCGTTGAATTTTACGG[DNA_END]
+Target gene: Homo sapiens VCAM1, transcript variant 1, mRNA
+Inhibition efficacy score (as a number between 0 and 1):
+Output:
+0.58
+Parsed: 0.58
+
+--- Entry 160 ---
+Prompt:
+[DNA_START]CGGGTGTCATTCCGTCCGAC[DNA_END]
+Target gene: Homo sapiens VCAM1, transcript variant 1, mRNA
+Inhibition efficacy score (as a number between 0 and 1):
+Output:
+0.74
+Parsed: 0.74
+
+--- Entry 161 ---
+Prompt:
+[DNA_START]TCCACCTTAATTAACAAGTTC[DNA_END]
+Target gene: Homo sapiens VCAM1, transcript variant 1, mRNA
+Inhibition efficacy score (as a number between 0 and 1):
+Output:
+0.03
+Parsed: 0.03
+
+--- Entry 162 ---
+Prompt:
+[DNA_START]TCGCCTCTGTCCTCTGTGTC[DNA_END]
+Target gene: Homo sapiens VCAM1, transcript variant 1, mRNA
+Inhibition efficacy score (as a number between 0 and 1):
+Output:
+0.31
+Parsed: 0.31
+
+--- Entry 163 ---
+Prompt:
+[DNA_START]CCTTCTCTTTTGTTGTTTCTG[DNA_END]
+Target gene: Homo sapiens VCAM1, transcript variant 1, mRNA
+Inhibition efficacy score (as a number between 0 and 1):
+Output:
+0.093
+Parsed: 0.093
+
+--- Entry 164 ---
+Prompt:
+[DNA_START]CGATTACGAACTATACAAGT[DNA_END]
+Target gene: Homo sapiens VCAM1, transcript variant 1, mRNA
+Inhibition efficacy score (as a number between 0 and 1):
+Output:
+0.0000
+Parsed: 0.0
+
+--- Entry 165 ---
+Prompt:
+[DNA_START]AATACGGTATCGTTCTAACG[DNA_END]
+Target gene: Homo sapiens VCAM1, transcript variant 1, mRNA
+Inhibition efficacy score (as a number between 0 and 1):
+Output:
+0.00013
+Parsed: 0.00013
+
+--- Entry 166 ---
+Prompt:
+[DNA_START]CCAAAACATTTCTACGGCCC[DNA_END]
+Target gene: Homo sapiens VCAM1, transcript variant 1, mRNA
+Inhibition efficacy score (as a number between 0 and 1):
+Output:
+0.91976
+Parsed: 0.91976
+
+--- Entry 167 ---
+Prompt:
+[DNA_START]TCGTTTCCCTCGTGACCCAA[DNA_END]
+Target gene: Homo sapiens VCAM1, transcript variant 1, mRNA
+Inhibition efficacy score (as a number between 0 and 1):
+Output:
+0.6
+Parsed: 0.6
+
+--- Entry 168 ---
+Prompt:
+[DNA_START]ACCGTACCATGCCTCTACAA[DNA_END]
+Target gene: Homo sapiens VCAM1, transcript variant 1, mRNA
+Inhibition efficacy score (as a number between 0 and 1):
+Output:
+0.37
+Parsed: 0.37
+
+--- Entry 169 ---
+Prompt:
+[DNA_START]CGTTGAAAGGGTTACACCGG[DNA_END]
+Target gene: Homo sapiens VCAM1, transcript variant 1, mRNA
+Inhibition efficacy score (as a number between 0 and 1):
+Output:
+0.55
+Parsed: 0.55
+
+--- Entry 170 ---
+Prompt:
+[DNA_START]GCCCGGAGTGACCG[DNA_END]
+Target gene: Homo sapiens VCAM1, transcript variant 1, mRNA
+Inhibition efficacy score (as a number between 0 and 1):
+Output:
+0.0024
+Parsed: 0.0024
+
+--- Entry 171 ---
+Prompt:
+[DNA_START]GGAGTGACCGAAGTCC[DNA_END]
+Target gene: Homo sapiens VCAM1, transcript variant 1, mRNA
+Inhibition efficacy score (as a number between 0 and 1):
+Output:
+0.38
+Parsed: 0.38
+
+--- Entry 172 ---
+Prompt:
+[DNA_START]GAAGTCCTCGACTTATGG[DNA_END]
+Target gene: Homo sapiens VCAM1, transcript variant 1, mRNA
+Inhibition efficacy score (as a number between 0 and 1):
+Output:
+0.53
+Parsed: 0.53
+
+--- Entry 173 ---
+Prompt:
+[DNA_START]CTTATGGGAGGGTCC[DNA_END]
+Target gene: Homo sapiens VCAM1, transcript variant 1, mRNA
+Inhibition efficacy score (as a number between 0 and 1):
+Output:
+0.943695
+Parsed: 0.943695
+
+--- Entry 174 ---
+Prompt:
+[DNA_START]GGGAGGGTCCGTGTGTGTCCA[DNA_END]
+Target gene: Homo sapiens VCAM1, transcript variant 1, mRNA
+Inhibition efficacy score (as a number between 0 and 1):
+Output:
+0.89 (0.53-1.12)
+Parsed: 0.89
+
+--- Entry 175 ---
+Prompt:
+[DNA_START]GTCCACCCTGTGTTT[DNA_END]
+Target gene: Homo sapiens VCAM1, transcript variant 1, mRNA
+Inhibition efficacy score (as a number between 0 and 1):
+Output:
+0.45
+Parsed: 0.45
+
+--- Entry 176 ---
+Prompt:
+[DNA_START]CCCTGTGTTTATTCCC[DNA_END]
+Target gene: Homo sapiens VCAM1, transcript variant 1, mRNA
+Inhibition efficacy score (as a number between 0 and 1):
+Output:
+0.459
+Parsed: 0.459
+
+--- Entry 177 ---
+Prompt:
+[DNA_START]CCACCCTGTGTTTATTCCCAA[DNA_END]
+Target gene: Homo sapiens VCAM1, transcript variant 1, mRNA
+Inhibition efficacy score (as a number between 0 and 1):
+Output:
+0.5
+Parsed: 0.5
+
+--- Entry 178 ---
+Prompt:
+[DNA_START]TTCCCAAAACCTTGG[DNA_END]
+Target gene: Homo sapiens VCAM1, transcript variant 1, mRNA
+Inhibition efficacy score (as a number between 0 and 1):
+Output:
+0.76 (rank: 225 out of 225)
+Parsed: 0.76225225
+
+--- Entry 179 ---
+Prompt:
+[DNA_START]TTGGTGATAAAAGAGTAGTGC[DNA_END]
+Target gene: Homo sapiens VCAM1, transcript variant 1, mRNA
+Inhibition efficacy score (as a number between 0 and 1):
+Output:
+0.643697
+Parsed: 0.643697
+
+--- Entry 180 ---
+Prompt:
+[DNA_START]GTCGTTGAATTTTACGGACCC[DNA_END]
+Target gene: Homo sapiens VCAM1, transcript variant 1, mRNA
+Inhibition efficacy score (as a number between 0 and 1):
+Output:
+0.66
+Parsed: 0.66
+
+--- Entry 181 ---
+Prompt:
+[DNA_START]GAATTTTACGGACCC[DNA_END]
+Target gene: Homo sapiens VCAM1, transcript variant 1, mRNA
+Inhibition efficacy score (as a number between 0 and 1):
+Output:
+0.993
+Parsed: 0.993
+
+--- Entry 182 ---
+Prompt:
+[DNA_START]TTTACGGACCCTTCTACCAGC[DNA_END]
+Target gene: Homo sapiens VCAM1, transcript variant 1, mRNA
+Inhibition efficacy score (as a number between 0 and 1):
+Output:
+0.45
+Parsed: 0.45
+
+--- Entry 183 ---
+Prompt:
+[DNA_START]TACGGACCCTTCTAC[DNA_END]
+Target gene: Homo sapiens VCAM1, transcript variant 1, mRNA
+Inhibition efficacy score (as a number between 0 and 1):
+Output:
+0.66
+Parsed: 0.66
+
+--- Entry 184 ---
+Prompt:
+[DNA_START]CCCTTCTACCAGCA[DNA_END]
+Target gene: Homo sapiens VCAM1, transcript variant 1, mRNA
+Inhibition efficacy score (as a number between 0 and 1):
+Output:
+0.92575
+Parsed: 0.92575
+
+--- Entry 185 ---
+Prompt:
+[DNA_START]GGTCTTTAGCTCTAC[DNA_END]
+Target gene: Homo sapiens VCAM1, transcript variant 1, mRNA
+Inhibition efficacy score (as a number between 0 and 1):
+Output:
+0.24
+Parsed: 0.24
+
+--- Entry 186 ---
+Prompt:
+[DNA_START]GCTCTACTCACCACC[DNA_END]
+Target gene: Homo sapiens VCAM1, transcript variant 1, mRNA
+Inhibition efficacy score (as a number between 0 and 1):
+Output:
+0.86
+Parsed: 0.86
+
+--- Entry 187 ---
+Prompt:
+[DNA_START]CTCTACTCACCACCGGAGCAC[DNA_END]
+Target gene: Homo sapiens VCAM1, transcript variant 1, mRNA
+Inhibition efficacy score (as a number between 0 and 1):
+Output:
+0.67
+Parsed: 0.67
+
+--- Entry 188 ---
+Prompt:
+[DNA_START]CTCACCACCGGAGC[DNA_END]
+Target gene: Homo sapiens VCAM1, transcript variant 1, mRNA
+Inhibition efficacy score (as a number between 0 and 1):
+Output:
+0.72
+Parsed: 0.72
+
+--- Entry 189 ---
+Prompt:
+[DNA_START]CCACCGGAGCACTTACCC[DNA_END]
+Target gene: Homo sapiens VCAM1, transcript variant 1, mRNA
+Inhibition efficacy score (as a number between 0 and 1):
+Output:
+0.97
+Parsed: 0.97
+
+--- Entry 190 ---
+Prompt:
+[DNA_START]CGGTAGTTCTACTCTC[DNA_END]
+Target gene: Homo sapiens VCAM1, transcript variant 1, mRNA
+Inhibition efficacy score (as a number between 0 and 1):
+Output:
+0.57
+Parsed: 0.57
+
+--- Entry 191 ---
+Prompt:
+[DNA_START]CTCTCTTGACCTCC[DNA_END]
+Target gene: Homo sapiens VCAM1, transcript variant 1, mRNA
+Inhibition efficacy score (as a number between 0 and 1):
+Output:
+0.4
+Parsed: 0.4
+
+--- Entry 192 ---
+Prompt:
+[DNA_START]CTCCTCAAGGAACTAGAC[DNA_END]
+Target gene: Homo sapiens VCAM1, transcript variant 1, mRNA
+Inhibition efficacy score (as a number between 0 and 1):
+Output:
+0.965
+Parsed: 0.965
+
+--- Entry 193 ---
+Prompt:
+[DNA_START]CGGTATCGTTCTAACGAATTT[DNA_END]
+Target gene: Homo sapiens VCAM1, transcript variant 1, mRNA
+Inhibition efficacy score (as a number between 0 and 1):
+Output:
+0.83
+Parsed: 0.83
+
+--- Entry 194 ---
+Prompt:
+[DNA_START]TGGACTCTGTCTCCGTCGTC[DNA_END]
+Target gene: Homo sapiens SELE mRNA
+Inhibition efficacy score (as a number between 0 and 1):
+Output:
+0.43 (HGNC: 3130)
+Parsed: 0.43313
+
+--- Entry 195 ---
+Prompt:
+[DNA_START]TGGGTGGACTCTCTAGGACA[DNA_END]
+Target gene: Homo sapiens SELE mRNA
+Inhibition efficacy score (as a number between 0 and 1):
+Output:
+0.6
+Parsed: 0.6
+
+--- Entry 196 ---
+Prompt:
+[DNA_START]TCTTGAGAACTTCAGTACTAA[DNA_END]
+Target gene: Homo sapiens SELE mRNA
+Inhibition efficacy score (as a number between 0 and 1):
+Output:
+0.5
+Parsed: 0.5
+
+--- Entry 197 ---
+Prompt:
+[DNA_START]GAACTTCAGTACTAACGAAGT[DNA_END]
+Target gene: Homo sapiens SELE mRNA
+Inhibition efficacy score (as a number between 0 and 1):
+Output:
+0.87
+Parsed: 0.87
+
+--- Entry 198 ---
+Prompt:
+[DNA_START]AGAGAGTCGAGAGTGAAACC[DNA_END]
+Target gene: Homo sapiens SELE mRNA
+Inhibition efficacy score (as a number between 0 and 1):
+Output:
+0.00554527
+Parsed: 0.00554527
+
+--- Entry 199 ---
+Prompt:
+[DNA_START]GACGGTTTCGGAACTTAGTC[DNA_END]
+Target gene: Homo sapiens SELE mRNA
+Inhibition efficacy score (as a number between 0 and 1):
+Output:
+0.55
+Parsed: 0.55
+
+--- Entry 200 ---
+Prompt:
+[DNA_START]TTTGTCCACGTAGACCCCTT[DNA_END]
+Target gene: Homo sapiens SELE mRNA
+Inhibition efficacy score (as a number between 0 and 1):
+Output:
+0.8236
+Parsed: 0.8236
+
+--- Entry 201 ---
+Prompt:
+[DNA_START]AGAGGAGCCCAGAGACCGGG[DNA_END]
+Target gene: Homo sapiens SELE mRNA
+Inhibition efficacy score (as a number between 0 and 1):
+Output:
+0.32
+Parsed: 0.32
+
+--- Entry 202 ---
+Prompt:
+[DNA_START]TTTCTCAAGAATTCCTAACAC[DNA_END]
+Target gene: Homo sapiens SELE mRNA
+Inhibition efficacy score (as a number between 0 and 1):
+Output:
+0.37
+Parsed: 0.37
+
+--- Entry 203 ---
+Prompt:
+[DNA_START]TATATAATATTAGAAGGTATG[DNA_END]
+Target gene: Homo sapiens SELE mRNA
+Inhibition efficacy score (as a number between 0 and 1):
+Output:
+0.88
+Parsed: 0.88
+
+--- Entry 204 ---
+Prompt:
+[DNA_START]TACCTTCCAAACATATAACAG[DNA_END]
+Target gene: Homo sapiens SELE mRNA
+Inhibition efficacy score (as a number between 0 and 1):
+Output:
+0.8
+Parsed: 0.8
+
+--- Entry 205 ---
+Prompt:
+[DNA_START]TGAAGGTACTCCGGTTTGCA[DNA_END]
+Target gene: Homo sapiens SELE mRNA
+Inhibition efficacy score (as a number between 0 and 1):
+Output:
+0.233
+Parsed: 0.233
+
+--- Entry 206 ---
+Prompt:
+[DNA_START]TACCTACACGAAACGTAAGG[DNA_END]
+Target gene: Homo sapiens SELE mRNA
+Inhibition efficacy score (as a number between 0 and 1):
+Output:
+0.81
+Parsed: 0.81
+
+--- Entry 207 ---
+Prompt:
+[DNA_START]TTCTATTCTTCCTTTTCTTT[DNA_END]
+Target gene: Homo sapiens P-glycoprotein (PGY1) mRNA
+Inhibition efficacy score (as a number between 0 and 1):
+Output:
+0.69
+Parsed: 0.69
+
+--- Entry 208 ---
+Prompt:
+[DNA_START]GTTATTTTCACTTTTTCTAT[DNA_END]
+Target gene: Homo sapiens P-glycoprotein (PGY1) mRNA
+Inhibition efficacy score (as a number between 0 and 1):
+Output:
+0.5
+Parsed: 0.5
+
+--- Entry 209 ---
+Prompt:
+[DNA_START]GTTCGGATTTGGAAACCC[DNA_END]
+Target gene: ELAM1 mRNA, complete cds
+Inhibition efficacy score (as a number between 0 and 1):
+Output:
+0.41
+Parsed: 0.41
+
+--- Entry 210 ---
+Prompt:
+[DNA_START]GTTCGGATTTGGAAACCCACT[DNA_END]
+Target gene: ELAM1 mRNA, complete cds
+Inhibition efficacy score (as a number between 0 and 1):
+Output:
+0.5
+Parsed: 0.5
+
+--- Entry 211 ---
+Prompt:
+[DNA_START]CCCACTTTTCTTGAG[DNA_END]
+Target gene: ELAM1 mRNA, complete cds
+Inhibition efficacy score (as a number between 0 and 1):
+Output:
+0.058
+Parsed: 0.058
+
+--- Entry 212 ---
+Prompt:
+[DNA_START]TCTTGAGAACTTCAG[DNA_END]
+Target gene: ELAM1 mRNA, complete cds
+Inhibition efficacy score (as a number between 0 and 1):
+Output:
+0.98 (SAS)
+Parsed: 0.98
+
+--- Entry 213 ---
+Prompt:
+[DNA_START]TCTTGAGAACTTCAGTACTAA[DNA_END]
+Target gene: ELAM1 mRNA, complete cds
+Inhibition efficacy score (as a number between 0 and 1):
+Output:
+0.21
+Parsed: 0.21
+
+--- Entry 214 ---
+Prompt:
+[DNA_START]CTTGAGAACTTCAGTACTAAC[DNA_END]
+Target gene: ELAM1 mRNA, complete cds
+Inhibition efficacy score (as a number between 0 and 1):
+Output:
+0.95871
+Parsed: 0.95871
+
+--- Entry 215 ---
+Prompt:
+[DNA_START]TTGAGAACTTCAGTACTAACG[DNA_END]
+Target gene: ELAM1 mRNA, complete cds
+Inhibition efficacy score (as a number between 0 and 1):
+Output:
+0.97
+Parsed: 0.97
+
+--- Entry 216 ---
+Prompt:
+[DNA_START]GAACTTCAGTACTAACGAAGT[DNA_END]
+Target gene: ELAM1 mRNA, complete cds
+Inhibition efficacy score (as a number between 0 and 1):
+Output:
+0.31
+Parsed: 0.31
+
+--- Entry 217 ---
+Prompt:
+[DNA_START]CAGTACTAACGAAGTGTC[DNA_END]
+Target gene: ELAM1 mRNA, complete cds
+Inhibition efficacy score (as a number between 0 and 1):
+Output:
+0.74
+Parsed: 0.74
+
+--- Entry 218 ---
+Prompt:
+[DNA_START]GAGGTTCTTCTTATACTTTC[DNA_END]
+Target gene: Homo sapiens IL1R1 mRNA
+Inhibition efficacy score (as a number between 0 and 1):
+Output:
+0.8
+Parsed: 0.8
+
+--- Entry 219 ---
+Prompt:
+[DNA_START]TTCTGTTCCGGAAGAGGTTC[DNA_END]
+Target gene: Homo sapiens IL1R1 mRNA
+Inhibition efficacy score (as a number between 0 and 1):
+Output:
+0.29
+Parsed: 0.29
+
+--- Entry 220 ---
+Prompt:
+[DNA_START]TTCTTATACTTTCACAATGA[DNA_END]
+Target gene: Homo sapiens IL1R1 mRNA
+Inhibition efficacy score (as a number between 0 and 1):
+Output:
+0.727
+Parsed: 0.727
+
+--- Entry 221 ---
+Prompt:
+[DNA_START]ATGAGTCTGAATAAACAAAG[DNA_END]
+Target gene: Homo sapiens IL1R1 mRNA
+Inhibition efficacy score (as a number between 0 and 1):
+Output:
+0.6
+Parsed: 0.6
+
+--- Entry 222 ---
+Prompt:
+[DNA_START]CAACGTCCTCTGCCTCCTGA[DNA_END]
+Target gene: Homo sapiens IL1R1 mRNA
+Inhibition efficacy score (as a number between 0 and 1):
+Output:
+0.00000000000000000000000000000
+Parsed: 0.0
+
+--- Entry 223 ---
+Prompt:
+[DNA_START]CGAGTGCACGGAGAGCCCAT[DNA_END]
+Target gene: Homo sapiens IL1R1 mRNA
+Inhibition efficacy score (as a number between 0 and 1):
+Output:
+0.79
+Parsed: 0.79
+
+--- Entry 224 ---
+Prompt:
+[DNA_START]CTGATACTCTTTTACGGTCT[DNA_END]
+Target gene: Homo sapiens IL1R1 mRNA
+Inhibition efficacy score (as a number between 0 and 1):
+Output:
+0.004
+Parsed: 0.004
+
+--- Entry 225 ---
+Prompt:
+[DNA_START]AGCCCATCGTACCTCTTCAA[DNA_END]
+Target gene: Homo sapiens IL1R1 mRNA
+Inhibition efficacy score (as a number between 0 and 1):
+Output:
+0.5
+Parsed: 0.5
+
+--- Entry 226 ---
+Prompt:
+[DNA_START]GAGGACAGAATACCGCAACG[DNA_END]
+Target gene: Homo sapiens IL1R1 mRNA
+Inhibition efficacy score (as a number between 0 and 1):
+Output:
+0.735
+Parsed: 0.735
+
+--- Entry 227 ---
+Prompt:
+[DNA_START]CGCAACGTCCGGTCCAATAC[DNA_END]
+Target gene: Homo sapiens IL1R1 mRNA
+Inhibition efficacy score (as a number between 0 and 1):
+Output:
+0.500
+Parsed: 0.5
+
+--- Entry 228 ---
+Prompt:
+[DNA_START]GAACGTCTCAAGTACCTTAC[DNA_END]
+Target gene: Homo sapiens IL1R1 mRNA
+Inhibition efficacy score (as a number between 0 and 1):
+Output:
+0.9577
+Parsed: 0.9577
+
+--- Entry 229 ---
+Prompt:
+[DNA_START]CCCTCTGCCTCCAACGTCAC[DNA_END]
+Target gene: Homo sapiens IL1R1 mRNA
+Inhibition efficacy score (as a number between 0 and 1):
+Output:
+0.962259963260153
+Parsed: 0.962259963260153
+
+--- Entry 230 ---
+Prompt:
+[DNA_START]TCAGTAGGTGTCGGGTTCCC[DNA_END]
+Target gene: Homo sapiens IL1R1 mRNA
+Inhibition efficacy score (as a number between 0 and 1):
+Output:
+0.3975625
+Parsed: 0.3975625
+
+--- Entry 231 ---
+Prompt:
+[DNA_START]GGCGAGAAGACAGTAGGGCG[DNA_END]
+Target gene: Homo sapiens IL1R1 mRNA
+Inhibition efficacy score (as a number between 0 and 1):
+Output:
+0.86
+Parsed: 0.86
+
+--- Entry 232 ---
+Prompt:
+[DNA_START]CTCCCTCTCCGACACCACCG[DNA_END]
+Target gene: Homo sapiens IL1R1 mRNA
+Inhibition efficacy score (as a number between 0 and 1):
+Output:
+0.86
+Parsed: 0.86
+
+--- Entry 233 ---
+Prompt:
+[DNA_START]GGAGTGAGGTGTGACCGTGC[DNA_END]
+Target gene: Homo sapiens IL1R1 mRNA
+Inhibition efficacy score (as a number between 0 and 1):
+Output:
+0.024
+Parsed: 0.024
+
+--- Entry 234 ---
+Prompt:
+[DNA_START]CGGTGGCTAACGTCCTGTGT[DNA_END]
+Target gene: Homo sapiens IL1R1 mRNA
+Inhibition efficacy score (as a number between 0 and 1):
+Output:
+0.00258
+Parsed: 0.00258
+
+--- Entry 235 ---
+Prompt:
+[DNA_START]AAGAGGACCCGGGCGAAACG[DNA_END]
+Target gene: Homo sapiens IL1R1 mRNA
+Inhibition efficacy score (as a number between 0 and 1):
+Output:
+0.0013
+Parsed: 0.0013
+
+--- Entry 236 ---
+Prompt:
+[DNA_START]ACCTATTCGCACCCACCTCC[DNA_END]
+Target gene: Homo sapiens IL1R1 mRNA
+Inhibition efficacy score (as a number between 0 and 1):
+Output:
+0.66
+Parsed: 0.66
+
+--- Entry 237 ---
+Prompt:
+[DNA_START]GGGCACTTGAAGGAAACTGA[DNA_END]
+Target gene: Homo sapiens IL1R1 mRNA
+Inhibition efficacy score (as a number between 0 and 1):
+Output:
+0.462
+Parsed: 0.462
+
+--- Entry 238 ---
+Prompt:
+[DNA_START]TGTCGTACGTAGTGCCTAGT[DNA_END]
+Target gene: Homo sapiens IL1R1 mRNA
+Inhibition efficacy score (as a number between 0 and 1):
+Output:
+0.36
+Parsed: 0.36
+
+--- Entry 239 ---
+Prompt:
+[DNA_START]TAGGCGCGGCTCCCGTTGT[DNA_END]
+Target gene: Homo sapiens collagen, type I, alpha 1, mRNA
+Inhibition efficacy score (as a number between 0 and 1):
+Output:
+0.27
+Parsed: 0.27
+
+--- Entry 240 ---
+Prompt:
+[DNA_START]CATGGTACTGGCTCTGCACA[DNA_END]
+Target gene: Homo sapiens collagen, type I, alpha 1, mRNA
+Inhibition efficacy score (as a number between 0 and 1):
+Output:
+0.0101
+Parsed: 0.0101
+
+--- Entry 241 ---
+Prompt:
+[DNA_START]TAGACACTGCTCTGGTTCT[DNA_END]
+Target gene: Homo sapiens collagen, type I, alpha 1, mRNA
+Inhibition efficacy score (as a number between 0 and 1):
+Output:
+0.376
+Parsed: 0.376
+
+--- Entry 242 ---
+Prompt:
+[DNA_START]GTTCTCCGTACAGACCAAG[DNA_END]
+Target gene: Homo sapiens collagen, type I, alpha 1, mRNA
+Inhibition efficacy score (as a number between 0 and 1):
+Output:
+0.029
+Parsed: 0.029
+
+--- Entry 243 ---
+Prompt:
+[DNA_START]GCGCCTCACACTCCGGTG[DNA_END]
+Target gene: Homo sapiens collagen, type I, alpha 1, mRNA
+Inhibition efficacy score (as a number between 0 and 1):
+Output:
+0.056
+Parsed: 0.056
+
+--- Entry 244 ---
+Prompt:
+[DNA_START]ATAGAAACTGGTTGGCTTGT[DNA_END]
+Target gene: Homo sapiens collagen, type I, alpha 1, mRNA
+Inhibition efficacy score (as a number between 0 and 1):
+Output:
+0.49848
+Parsed: 0.49848
+
+--- Entry 245 ---
+Prompt:
+[DNA_START]GAGGAGCCCCAGCCTCGT[DNA_END]
+Target gene: Homo sapiens collagen, type I, alpha 1, mRNA
+Inhibition efficacy score (as a number between 0 and 1):
+Output:
+0.76
+Parsed: 0.76
+
+--- Entry 246 ---
+Prompt:
+[DNA_START]TGGCTGGTTCTTTGGTGGCCG[DNA_END]
+Target gene: Homo sapiens collagen, type I, alpha 1, mRNA
+Inhibition efficacy score (as a number between 0 and 1):
+Output:
+0.001
+Parsed: 0.001
+
+--- Entry 247 ---
+Prompt:
+[DNA_START]GAATCGCCGGTGGCGGGA[DNA_END]
+Target gene: Homo sapiens collagen, type I, alpha 1, mRNA
+Inhibition efficacy score (as a number between 0 and 1):
+Output:
+0.8
+Parsed: 0.8
+
+--- Entry 248 ---
+Prompt:
+[DNA_START]GTGAGTCGGGTCACACCGG[DNA_END]
+Target gene: Homo sapiens collagen, type I, alpha 1, mRNA
+Inhibition efficacy score (as a number between 0 and 1):
+Output:
+0.99999999999999999999999999999
+Parsed: 1.0
+
+--- Entry 249 ---
+Prompt:
+[DNA_START]CAGGAGGGTCGCGACCAAAG[DNA_END]
+Target gene: Homo sapiens collagen, type I, alpha 1, mRNA
+Inhibition efficacy score (as a number between 0 and 1):
+Output:
+0.982 (0.982)
+Parsed: 0.982
+
+--- Entry 250 ---
+Prompt:
+[DNA_START]CGCCTGCGATTGGGGGAG[DNA_END]
+Target gene: Homo sapiens collagen, type I, alpha 1, mRNA
+Inhibition efficacy score (as a number between 0 and 1):
+Output:
+0.96
+Parsed: 0.96
+
+--- Entry 251 ---
+Prompt:
+[DNA_START]GGGGCCGCGGCTTCAGGGG[DNA_END]
+Target gene: Homo sapiens collagen, type I, alpha 1, mRNA
+Inhibition efficacy score (as a number between 0 and 1):
+Output:
+0.318255
+Parsed: 0.318255
+
+--- Entry 252 ---
+Prompt:
+[DNA_START]CTTGGGGGAGTTTTCGGTTTTTT[DNA_END]
+Target gene: Homo sapiens collagen, type I, alpha 1, mRNA
+Inhibition efficacy score (as a number between 0 and 1):
+Output:
+0.091
+Parsed: 0.091
+
+--- Entry 253 ---
+Prompt:
+[DNA_START]GCCTGGGGGGCCTGGGGGG[DNA_END]
+Target gene: Homo sapiens collagen, type I, alpha 1, mRNA
+Inhibition efficacy score (as a number between 0 and 1):
+Output:
+0.44
+Parsed: 0.44
+
+--- Entry 254 ---
+Prompt:
+[DNA_START]GACCACTACGACCAGGACAA[DNA_END]
+Target gene: Homo sapiens collagen, type I, alpha 1, mRNA
+Inhibition efficacy score (as a number between 0 and 1):
+Output:
+0.002
+Parsed: 0.002
+
+--- Entry 255 ---
+Prompt:
+[DNA_START]TACGTCGTGGCTCCGAAGAA[DNA_END]
+Target gene: Mus musculus midkine (Mdk), mRNA
+Inhibition efficacy score (as a number between 0 and 1):
+Output:
+0.65
+Parsed: 0.65
+
+--- Entry 256 ---
+Prompt:
+[DNA_START]GAAGAAGGAAGAGCGGGA[DNA_END]
+Target gene: Mus musculus midkine (Mdk), mRNA
+Inhibition efficacy score (as a number between 0 and 1):
+Output:
+0.66
+Parsed: 0.66
+
+--- Entry 257 ---
+Prompt:
+[DNA_START]CCTTCTTCCTTAAACCTC[DNA_END]
+Target gene: Mus musculus midkine (Mdk), mRNA
+Inhibition efficacy score (as a number between 0 and 1):
+Output:
+0.99 (0.99)
+Parsed: 0.99
+
+--- Entry 258 ---
+Prompt:
+[DNA_START]TAGGCGCACTGATTCGGG[DNA_END]
+Target gene: Mus musculus midkine (Mdk), mRNA
+Inhibition efficacy score (as a number between 0 and 1):
+Output:
+0.4
+Parsed: 0.4
+
+--- Entry 259 ---
+Prompt:
+[DNA_START]CUCCACTTGTAGTGC[DNA_END]
+Target gene: Firefly luciferase gene
+Inhibition efficacy score (as a number between 0 and 1):
+Output:
+0.242
+Parsed: 0.242
+
+--- Entry 260 ---
+Prompt:
+[DNA_START]TTCTTCCCGCCTTTC[DNA_END]
+Target gene: Firefly luciferase gene
+Inhibition efficacy score (as a number between 0 and 1):
+Output:
+0.96
+Parsed: 0.96
+
+--- Entry 261 ---
+Prompt:
+[DNA_START]CTCCACTTGTAGT[DNA_END]
+Target gene: Firefly luciferase gene
+Inhibition efficacy score (as a number between 0 and 1):
+Output:
+0.84
+Parsed: 0.84
+
+--- Entry 262 ---
+Prompt:
+[DNA_START]CTCCACTTGTA[DNA_END]
+Target gene: Firefly luciferase gene
+Inhibition efficacy score (as a number between 0 and 1):
+Output:
+0.99
+Parsed: 0.99
+
+--- Entry 263 ---
+Prompt:
+[DNA_START]CTCCACTTG[DNA_END]
+Target gene: Firefly luciferase gene
+Inhibition efficacy score (as a number between 0 and 1):
+Output:
+0.06
+Parsed: 0.06
+
+--- Entry 264 ---
+Prompt:
+[DNA_START]CCACTTGTAGTGC[DNA_END]
+Target gene: Firefly luciferase gene
+Inhibition efficacy score (as a number between 0 and 1):
+Output:
+0.84
+Parsed: 0.84
+
+--- Entry 265 ---
+Prompt:
+[DNA_START]ACTTGTAGTGC[DNA_END]
+Target gene: Firefly luciferase gene
+Inhibition efficacy score (as a number between 0 and 1):
+Output:
+0.67
+Parsed: 0.67
+
+--- Entry 266 ---
+Prompt:
+[DNA_START]TTGTAGTGC[DNA_END]
+Target gene: Firefly luciferase gene
+Inhibition efficacy score (as a number between 0 and 1):
+Output:
+0.972
+Parsed: 0.972
+
+--- Entry 267 ---
+Prompt:
+[DNA_START]GAAGATCAACTGAAACGTGG[DNA_END]
+Target gene: Human raf oncogene mRNA
+Inhibition efficacy score (as a number between 0 and 1):
+Output:
+0.65
+Parsed: 0.65
+
+--- Entry 268 ---
+Prompt:
+[DNA_START]TCCCCTCCTCCTCTTCGGTC[DNA_END]
+Target gene: Human raf oncogene mRNA
+Inhibition efficacy score (as a number between 0 and 1):
+Output:
+0.82
+Parsed: 0.82
+
+--- Entry 269 ---
+Prompt:
+[DNA_START]CCGGGACCCTCTTCCTTCGG[DNA_END]
+Target gene: Human raf oncogene mRNA
+Inhibition efficacy score (as a number between 0 and 1):
+Output:
+0.64
+Parsed: 0.64
+
+--- Entry 270 ---
+Prompt:
+[DNA_START]CCTTCGGTAAACGTCACGAC[DNA_END]
+Target gene: Human raf oncogene mRNA
+Inhibition efficacy score (as a number between 0 and 1):
+Output:
+0.75
+Parsed: 0.75
+
+--- Entry 271 ---
+Prompt:
+[DNA_START]GGGTGTAAGGGGTACGAGTT[DNA_END]
+Target gene: Human raf oncogene mRNA
+Inhibition efficacy score (as a number between 0 and 1):
+Output:
+0.71
+Parsed: 0.71
+
+--- Entry 272 ---
+Prompt:
+[DNA_START]TCGGGGTCGACAACCGATGT[DNA_END]
+Target gene: Human raf oncogene mRNA
+Inhibition efficacy score (as a number between 0 and 1):
+Output:
+0.69
+Parsed: 0.69
+
+--- Entry 273 ---
+Prompt:
+[DNA_START]GTACCCTAAAACCTTTAGTC[DNA_END]
+Target gene: Human raf oncogene mRNA
+Inhibition efficacy score (as a number between 0 and 1):
+Output:
+0.88
+Parsed: 0.88
+
+--- Entry 274 ---
+Prompt:
+[DNA_START]TTACGTACAGTGTCCGCCCT[DNA_END]
+Target gene: Human raf oncogene mRNA
+Inhibition efficacy score (as a number between 0 and 1):
+Output:
+0.58 (Rank 10)
+Parsed: 0.581
+
+--- Entry 275 ---
+Prompt:
+[DNA_START]GTACAGTGTCCGCCCTGAAA[DNA_END]
+Target gene: Human raf oncogene mRNA
+Inhibition efficacy score (as a number between 0 and 1):
+Output:
+0.08
+Parsed: 0.08
+
+--- Entry 276 ---
+Prompt:
+[DNA_START]ATTCCGTGGTTTGTCGGGTC[DNA_END]
+Target gene: Human raf oncogene mRNA
+Inhibition efficacy score (as a number between 0 and 1):
+Output:
+0.56
+Parsed: 0.56
+
+--- Entry 277 ---
+Prompt:
+[DNA_START]GGACGAAACCATGATACCTT[DNA_END]
+Target gene: Human raf oncogene mRNA
+Inhibition efficacy score (as a number between 0 and 1):
+Output:
+0.942
+Parsed: 0.942
+
+--- Entry 278 ---
+Prompt:
+[DNA_START]AAGGTCCGTTCCGTGAGCCG[DNA_END]
+Target gene: Human raf oncogene mRNA
+Inhibition efficacy score (as a number between 0 and 1):
+Output:
+0.933
+Parsed: 0.933
+
+--- Entry 279 ---
+Prompt:
+[DNA_START]GGCGTAGAGTCGGGAGAGTC[DNA_END]
+Target gene: Human raf oncogene mRNA
+Inhibition efficacy score (as a number between 0 and 1):
+Output:
+0.86
+Parsed: 0.86
+
+--- Entry 280 ---
+Prompt:
+[DNA_START]GTCAGAAGGTAGTACGACTT[DNA_END]
+Target gene: Human raf oncogene mRNA
+Inhibition efficacy score (as a number between 0 and 1):
+Output:
+0.917
+Parsed: 0.917
+
+--- Entry 281 ---
+Prompt:
+[DNA_START]CTTAAAACAGAAGGTCCTCG[DNA_END]
+Target gene: Human raf oncogene mRNA
+Inhibition efficacy score (as a number between 0 and 1):
+Output:
+0.00000000000000000000000000000
+Parsed: 0.0
+
+--- Entry 282 ---
+Prompt:
+[DNA_START]GTCGGACAAAGAGATTGTTT[DNA_END]
+Target gene: Human raf oncogene mRNA
+Inhibition efficacy score (as a number between 0 and 1):
+Output:
+0.3
+Parsed: 0.3
+
+--- Entry 283 ---
+Prompt:
+[DNA_START]GACAAAGAGATTGTTTGTTT[DNA_END]
+Target gene: Human raf oncogene mRNA
+Inhibition efficacy score (as a number between 0 and 1):
+Output:
+0.527
+Parsed: 0.527
+
+--- Entry 284 ---
+Prompt:
+[DNA_START]TATACGGAGGGGTCTAGAAT[DNA_END]
+Target gene: Human raf oncogene mRNA
+Inhibition efficacy score (as a number between 0 and 1):
+Output:
+0.74
+Parsed: 0.74
+
+--- Entry 285 ---
+Prompt:
+[DNA_START]GTCCTTATGTCCAAAAGAAC[DNA_END]
+Target gene: Human raf oncogene mRNA
+Inhibition efficacy score (as a number between 0 and 1):
+Output:
+0.67
+Parsed: 0.67
+
+--- Entry 286 ---
+Prompt:
+[DNA_START]CAAAAATAACGTGGACTGTT[DNA_END]
+Target gene: Human raf oncogene mRNA
+Inhibition efficacy score (as a number between 0 and 1):
+Output:
+0.5
+Parsed: 0.5
+
+--- Entry 287 ---
+Prompt:
+[DNA_START]GGAGTCGGAGCGATACCGAG[DNA_END]
+Target gene: Human intercellular adhesion molecule-1 (ICAM-1)
+Inhibition efficacy score (as a number between 0 and 1):
+Output:
+0.732
+Parsed: 0.732
+
+--- Entry 288 ---
+Prompt:
+[DNA_START]AGTCGGAGCGATACCGAGGG[DNA_END]
+Target gene: Human intercellular adhesion molecule-1 (ICAM-1)
+Inhibition efficacy score (as a number between 0 and 1):
+Output:
+0.89
+Parsed: 0.89
+
+--- Entry 289 ---
+Prompt:
+[DNA_START]TCGGAGCGATACCGAGGGTC[DNA_END]
+Target gene: Human intercellular adhesion molecule-1 (ICAM-1)
+Inhibition efficacy score (as a number between 0 and 1):
+Output:
+0.98
+Parsed: 0.98
+
+--- Entry 290 ---
+Prompt:
+[DNA_START]CCACTCCTCTCTAGTGGTAC[DNA_END]
+Target gene: Human intercellular adhesion molecule-1 (ICAM-1)
+Inhibition efficacy score (as a number between 0 and 1):
+Output:
+0.6
+Parsed: 0.6
+
+--- Entry 291 ---
+Prompt:
+[DNA_START]CCTCTCTAGTGGTACCTCGG[DNA_END]
+Target gene: Human intercellular adhesion molecule-1 (ICAM-1)
+Inhibition efficacy score (as a number between 0 and 1):
+Output:
+0.76
+Parsed: 0.76
+
+--- Entry 292 ---
+Prompt:
+[DNA_START]CTAGTGGTACCTCGGTTAAA[DNA_END]
+Target gene: Human intercellular adhesion molecule-1 (ICAM-1)
+Inhibition efficacy score (as a number between 0 and 1):
+Output:
+0.00132
+Parsed: 0.00132
+
+--- Entry 293 ---
+Prompt:
+[DNA_START]TGGTACCTCGGTTAAAGAGC[DNA_END]
+Target gene: Human intercellular adhesion molecule-1 (ICAM-1)
+Inhibition efficacy score (as a number between 0 and 1):
+Output:
+0.62
+Parsed: 0.62
+
+--- Entry 294 ---
+Prompt:
+[DNA_START]GTACCTCGGTTAAAGAGCAC[DNA_END]
+Target gene: Human intercellular adhesion molecule-1 (ICAM-1)
+Inhibition efficacy score (as a number between 0 and 1):
+Output:
+0.02
+Parsed: 0.02
+
+--- Entry 295 ---
+Prompt:
+[DNA_START]TACCTCGGTTAAAGAGCACG[DNA_END]
+Target gene: Human intercellular adhesion molecule-1 (ICAM-1)
+Inhibition efficacy score (as a number between 0 and 1):
+Output:
+0.85
+Parsed: 0.85
+
+--- Entry 296 ---
+Prompt:
+[DNA_START]ACCTCGGTTAAAGAGCACGG[DNA_END]
+Target gene: Human intercellular adhesion molecule-1 (ICAM-1)
+Inhibition efficacy score (as a number between 0 and 1):
+Output:
+0.8
+Parsed: 0.8
+
+--- Entry 297 ---
+Prompt:
+[DNA_START]CGGTTAAAGAGCACGGCGTG[DNA_END]
+Target gene: Human intercellular adhesion molecule-1 (ICAM-1)
+Inhibition efficacy score (as a number between 0 and 1):
+Output:
+0.86
+Parsed: 0.86
+
+--- Entry 298 ---
+Prompt:
+[DNA_START]TGTTCTTGGTCTGGGCCCTC[DNA_END]
+Target gene: Human intercellular adhesion molecule-1 (ICAM-1)
+Inhibition efficacy score (as a number between 0 and 1):
+Output:
+0.347
+Parsed: 0.347
+
+--- Entry 299 ---
+Prompt:
+[DNA_START]CTTGGTCTGGGCCCTCGAAG[DNA_END]
+Target gene: Human intercellular adhesion molecule-1 (ICAM-1)
+Inhibition efficacy score (as a number between 0 and 1):
+Output:
+0.6
+Parsed: 0.6
+
+--- Entry 300 ---
+Prompt:
+[DNA_START]GTGACGGGTAGCCCCTTAGT[DNA_END]
+Target gene: Human intercellular adhesion molecule-1 (ICAM-1)
+Inhibition efficacy score (as a number between 0 and 1):
+Output:
+0.96
+Parsed: 0.96
+
+--- Entry 301 ---
+Prompt:
+[DNA_START]GGTAGCCCCTTAGTCACTGA[DNA_END]
+Target gene: Human intercellular adhesion molecule-1 (ICAM-1)
+Inhibition efficacy score (as a number between 0 and 1):
+Output:
+0.73 (IC50 = 2.38 μM)
+Parsed: 0.73502
+
+--- Entry 302 ---
+Prompt:
+[DNA_START]GTAGCCCCTTAGTCACTGAC[DNA_END]
+Target gene: Human intercellular adhesion molecule-1 (ICAM-1)
+Inhibition efficacy score (as a number between 0 and 1):
+Output:
+0.45
+Parsed: 0.45
+
+--- Entry 303 ---
+Prompt:
+[DNA_START]TTTCCCTGGGGGTACTTTGG[DNA_END]
+Target gene: Human intercellular adhesion molecule-1 (ICAM-1)
+Inhibition efficacy score (as a number between 0 and 1):
+Output:
+0.90
+Parsed: 0.9
+
+--- Entry 304 ---
+Prompt:
+[DNA_START]TTCCCTGGGGGTACTTTGGC[DNA_END]
+Target gene: Human intercellular adhesion molecule-1 (ICAM-1)
+Inhibition efficacy score (as a number between 0 and 1):
+Output:
+0.5
+Parsed: 0.5
+
+--- Entry 305 ---
+Prompt:
+[DNA_START]TCCCTGGGGGTACTTTGGCT[DNA_END]
+Target gene: Human intercellular adhesion molecule-1 (ICAM-1)
+Inhibition efficacy score (as a number between 0 and 1):
+Output:
+0.58
+Parsed: 0.58
+
+--- Entry 306 ---
+Prompt:
+[DNA_START]CCCTGGGGGTACTTTGGCTT[DNA_END]
+Target gene: Human intercellular adhesion molecule-1 (ICAM-1)
+Inhibition efficacy score (as a number between 0 and 1):
+Output:
+0.8
+Parsed: 0.8
+
+--- Entry 307 ---
+Prompt:
+[DNA_START]CCTGGGGGTACTTTGGCTTG[DNA_END]
+Target gene: Human intercellular adhesion molecule-1 (ICAM-1)
+Inhibition efficacy score (as a number between 0 and 1):
+Output:
+0.316
+Parsed: 0.316
+
+--- Entry 308 ---
+Prompt:
+[DNA_START]CTGGGGGTACTTTGGCTTGT[DNA_END]
+Target gene: Human intercellular adhesion molecule-1 (ICAM-1)
+Inhibition efficacy score (as a number between 0 and 1):
+Output:
+0.82
+Parsed: 0.82
+
+--- Entry 309 ---
+Prompt:
+[DNA_START]TACTTTGGCTTGTGTGTTCG[DNA_END]
+Target gene: Human intercellular adhesion molecule-1 (ICAM-1)
+Inhibition efficacy score (as a number between 0 and 1):
+Output:
+0.6
+Parsed: 0.6
+
+--- Entry 310 ---
+Prompt:
+[DNA_START]TTGGCTTGTGTGTTCGGTGC[DNA_END]
+Target gene: Human intercellular adhesion molecule-1 (ICAM-1)
+Inhibition efficacy score (as a number between 0 and 1):
+Output:
+0.74
+Parsed: 0.74
+
+--- Entry 311 ---
+Prompt:
+[DNA_START]TGGCTTGTGTGTTCGGTGCG[DNA_END]
+Target gene: Human intercellular adhesion molecule-1 (ICAM-1)
+Inhibition efficacy score (as a number between 0 and 1):
+Output:
+0.71
+Parsed: 0.71
+
+--- Entry 312 ---
+Prompt:
+[DNA_START]GGCTTGTGTGTTCGGTGCGG[DNA_END]
+Target gene: Human intercellular adhesion molecule-1 (ICAM-1)
+Inhibition efficacy score (as a number between 0 and 1):
+Output:
+0.44
+Parsed: 0.44
+
+--- Entry 313 ---
+Prompt:
+[DNA_START]GCTTGTGTGTTCGGTGCGGA[DNA_END]
+Target gene: Human intercellular adhesion molecule-1 (ICAM-1)
+Inhibition efficacy score (as a number between 0 and 1):
+Output:
+0.78
+Parsed: 0.78
+
+--- Entry 314 ---
+Prompt:
+[DNA_START]CTTGTGTGTTCGGTGCGGAG[DNA_END]
+Target gene: Human intercellular adhesion molecule-1 (ICAM-1)
+Inhibition efficacy score (as a number between 0 and 1):
+Output:
+0.6822
+Parsed: 0.6822
